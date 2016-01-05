@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+}
+div.task3 {
+	background-color: #1abc9c;
+	height: 250px;
+	padding: 25px 10px;
+	color: #fff;
+	font-size: 48px;
+}
+/*task 4*/
+#task4 {
+	margin: 5px;
+}
+#task4 h1 {
+	margin-bottom: .3em
+}
+#task4 button {
+	display: block;
+	margin: 5px 0;
+}
